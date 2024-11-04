@@ -117,4 +117,3 @@ Bu proje, sosyal medya platformları üzerinde kullanıcıların etkileşimlerin
 
 # Gerekli komutlar buraya eklenecektir
 
-Veritabanı bağlantılarını yapılandırın ve projeyi çalıştırın.
