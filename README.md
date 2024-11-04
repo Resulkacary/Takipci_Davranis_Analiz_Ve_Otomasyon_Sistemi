@@ -6,7 +6,7 @@ Bu proje, sosyal medya takipçilerini analiz eden ve onlara özel reklam içerik
 
 ---
 
-## Projeyi Yapanlar
+## Proje Ekibi
 
 - [Ömer Faruk Çelik](https://github.com/yourusername1)
 - [Resul Kaçar](https://github.com/yourusername2)
