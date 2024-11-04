@@ -1,17 +1,22 @@
 
-# Takipçi Analizi ve Otomasyon Sistemi
+# BMÜ329 Veri Tabanı Sistemleri Dersi Dönem Projesi
+### Gereksinimleri ve E-R Diyagramı Formatı
 
-Bu proje, sosyal medya takipçilerini analiz eden ve onlara özel reklam içerikleri sunan bir otomasyon sistemidir. Takipçilerin beğenileri, yorumları ve katıldıkları gruplar gibi etkileşimlerinden yola çıkarak, kişiselleştirilmiş reklam gösterimlerini ve içerik önerilerini otomatik olarak sunmayı amaçlamaktadır.
+**Proje Başlığı:** Takipçi Davranış Analizi ve Otomasyon Sistemi
+
+---
+
+## Grup Üyeleri
+
+| Numarası    | Ad           | Soyadı    |
+|-------------|--------------|-----------|
+| 220260138   | Ömer Faruk   | Çelik     |
+| 210260304   | Resul        | Kaçar     |
+| 220260124   | Muhammed Raşid | Yılan    |
 
 ---
 
-## Proje Ekibi
-
-- [Ömer Faruk Çelik](https://github.com/yourusername1)
-- [Resul Kaçar](https://github.com/yourusername2)
-- [Muhammed Raşid Yılan](https://github.com/yourusername3)
-
----
+### Proje Gereksinimleri ve Varlıkların Detayları
 
 ## Proje İçeriği
 
