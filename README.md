@@ -4,6 +4,16 @@ markdown
 
 Bu proje, sosyal medya takipçilerini analiz eden ve onlara özel reklam içerikleri sunan bir otomasyon sistemidir. Takipçilerin beğenileri, yorumları ve katıldıkları gruplar gibi etkileşimlerinden yola çıkarak, kişiselleştirilmiş reklam gösterimlerini ve içerik önerilerini otomatik olarak sunmayı amaçlamaktadır.
 
+---
+
+## Projeyi Yapanlar
+
+- [Ömer Faruk Çelik](https://github.com/yourusername1)
+- [Resul Kaçar](https://github.com/yourusername2)
+- [Muhammed Raşid Yılan](https://github.com/yourusername3)
+
+---
+
 ## Proje İçeriği
 
 Bu proje, kullanıcıların sosyal medya üzerindeki davranışlarını analiz ederek, kişisel ilgi alanlarına göre özel içerik ve reklam önerileri sunmayı hedefler. Kullanıcı ve takipçi ilişkileri, gönderiler, popüler içerikler, reklamlar ve sosyal medya gibi birçok varlık arasındaki ilişkiler analiz edilmiştir.
@@ -61,19 +71,21 @@ Projedeki varlıklar arasındaki ilişkileri gösteren basit ER diyagramı aşa�
 
 ### İlişkiler ve Türleri
 
-| İlişki           | Varlık 1       | Varlık 2             | İlişki Türü       |
-|------------------|----------------|----------------------|-------------------|
-| Sahiptir         | Kullanıcı      | Takipçi              | Birden Çoğa       |
-| Beğeni           | Takipçi        | Gönderi              | Çoktan Çoğa       |
-| Yorum            | Takipçi        | Gönderi              | Çoktan Çoğa       |
-| Yayımlar         | Kullanıcı      | Gönderi              | Birden Çoğa       |
-| Katılma          | Takipçi        | Gruplar              | Çoktan Çoğa       |
-| Olma             | Gönderi        | Popüler İçerikler    | Birden Bire       |
-| Görüntüleme      | Takipçi        | Popüler İçerikler    | Çoktan Çoğa       |
-| Gösterilme       | Reklam         | Popüler İçerikler    | Çoktan Bire       |
-| Etkileşim        | Reklam         | Gruplar              | Çoktan Çoğa       |
-| Yayınlar         | Reklam         | Sosyal Medya         | Birden Çoğa       |
-| Tıklanma         | Takipçi        | Reklam               | Çoktan Çoğa       |
+Aşağıdaki tablo, projedeki varlıklar arasındaki ilişkileri ve bu ilişkilerin türlerini özetlemektedir.
+
+| **İlişki**       | **Varlık 1**       | **Varlık 2**           | **İlişki Türü**       |
+|------------------|--------------------|------------------------|-----------------------|
+| **Sahiptir**     | Kullanıcı          | Takipçi                | Birden Çoğa           |
+| **Beğeni**       | Takipçi            | Gönderi                | Çoktan Çoğa           |
+| **Yorum**        | Takipçi            | Gönderi                | Çoktan Çoğa           |
+| **Yayımlar**     | Kullanıcı          | Gönderi                | Birden Çoğa           |
+| **Katılma**      | Takipçi            | Gruplar                | Çoktan Çoğa           |
+| **Olma**         | Gönderi            | Popüler İçerikler      | Birden Bire           |
+| **Görüntüleme**  | Takipçi            | Popüler İçerikler      | Çoktan Çoğa           |
+| **Gösterilme**   | Reklam             | Popüler İçerikler      | Çoktan Bire           |
+| **Etkileşim**    | Reklam             | Gruplar                | Çoktan Çoğa           |
+| **Yayınlar**     | Reklam             | Sosyal Medya           | Birden Çoğa           |
+| **Tıklanma**     | Takipçi            | Reklam                 | Çoktan Çoğa           |
 
 ### Proje Amacı
 
