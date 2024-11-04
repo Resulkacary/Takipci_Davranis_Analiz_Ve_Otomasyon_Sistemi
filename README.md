@@ -63,13 +63,8 @@ Bu proje, kullanıcıların sosyal medya üzerindeki davranışlarını analiz e
    - E-posta
    - Şifre
 
-### ER Diyagramı
 
-Projedeki varlıklar arasındaki ilişkileri gösteren basit ER diyagramı aşağıda sunulmuştur.
 
-<p align="center">
-  <img src="pictures/VTYS_GRUP16(4).png" alt="ER Diyagramı" width="1200"/>
-</p>
 
 
 İlişki Türlerinin Açıklamaları
@@ -101,6 +96,21 @@ Aşağıdaki tablo, projedeki varlıklar arasındaki ilişkileri ve bu ilişkile
 | **Etkileşim**    | Reklam             | Gruplar                | Çoktan Çoğa           |
 | **Yayınlar**     | Reklam             | Sosyal Medya           | Birden Çoğa           |
 | **Tıklanma**     | Takipçi            | Reklam                 | Çoktan Çoğa           |
+
+
+
+
+
+### ER Diyagramı
+
+Projedeki varlıklar arasındaki ilişkileri gösteren basit ER diyagramı aşağıda sunulmuştur.
+
+<p align="center">
+  <img src="pictures/VTYS_GRUP16(4).png" alt="ER Diyagramı" width="1200"/>
+</p>
+
+
+
 
 ### Proje Amacı
 
