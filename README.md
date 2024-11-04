@@ -18,8 +18,6 @@
 
 ### Proje Gereksinimleri ve Varlıkların Detayları
 
-## Proje İçeriği
-
 Bu proje, kullanıcıların sosyal medya üzerindeki davranışlarını analiz ederek, kişisel ilgi alanlarına göre özel içerik ve reklam önerileri sunmayı hedefler. Kullanıcı ve takipçi ilişkileri, gönderiler, popüler içerikler, reklamlar ve sosyal medya gibi birçok varlık arasındaki ilişkiler analiz edilmiştir.
 
 ### Varlıklar ve Özellikleri
