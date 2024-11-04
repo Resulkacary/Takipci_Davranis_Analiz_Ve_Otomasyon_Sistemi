@@ -1,4 +1,3 @@
-
 # BMÜ329 Veri Tabanı Sistemleri Dersi Dönem Projesi
 ### Gereksinimleri ve E-R Diyagramı Formatı
 
@@ -8,11 +7,11 @@
 
 ## Grup Üyeleri
 
-| Numarası    | Ad           | Soyadı    |
-|-------------|--------------|-----------|
-| 220260138   | Ömer Faruk   | Çelik     |
-| 210260304   | Resul        | Kaçar     |
-| 220260124   | Muhammed Raşid | Yılan    |
+| Numarası    | Ad                                  | Soyadı     |
+|-------------|-------------------------------------|------------|
+| 220260138   | [Ömer Faruk Çelik](https://github.com/OmerFaruk-Celik)   | Çelik      |
+| 210260304   | [Resul Kaçar](https://github.com/Resul-Kacar)           | Kaçar      |
+| 220260124   | [Muhammed Raşid Yılan](https://github.com/Muhammed-Rasid-Yilan) | Yılan     |
 
 ---
 
@@ -63,21 +62,12 @@ Bu proje, kullanıcıların sosyal medya üzerindeki davranışlarını analiz e
    - E-posta
    - Şifre
 
+### İlişki Türlerinin Açıklamaları
 
-
-
-
-İlişki Türlerinin Açıklamaları
-
-    Birden Çoğa (1
-    ): Bir varlık diğer varlıktan birden fazla örneğe sahip olabilir. Örneğin, "Kullanıcı" birden fazla "Takipçiye" sahip olabilir.
-
-    Çoktan Çoğa (N
-    ): İki varlık birbiriyle çoklu ilişkiye sahip olabilir. Örneğin, "Takipçi" birden fazla "Gönderiyi" beğenebilir ve bir "Gönderi" birden fazla "Takipçi" tarafından beğenilebilir.
-
-    Birden Bire (1:1): Bir varlık diğer varlığa yalnızca bir kez bağlanabilir. Örneğin, bir "Gönderi" yalnızca bir "Popüler İçerik" olarak işaretlenebilir.
-
-    Çoktan Bire (N:1): Birden fazla varlık yalnızca bir varlığa bağlanabilir. Örneğin, birden fazla "Reklam," tek bir "Popüler İçeriğin" yanında gösterilebilir.
+- **Birden Çoğa (1:N)**: Bir varlık diğer varlıktan birden fazla örneğe sahip olabilir. Örneğin, "Kullanıcı" birden fazla "Takipçiye" sahip olabilir.
+- **Çoktan Çoğa (N:M)**: İki varlık birbiriyle çoklu ilişkiye sahip olabilir. Örneğin, "Takipçi" birden fazla "Gönderiyi" beğenebilir ve bir "Gönderi" birden fazla "Takipçi" tarafından beğenilebilir.
+- **Birden Bire (1:1)**: Bir varlık diğer varlığa yalnızca bir kez bağlanabilir. Örneğin, bir "Gönderi" yalnızca bir "Popüler İçerik" olarak işaretlenebilir.
+- **Çoktan Bire (N:1)**: Birden fazla varlık yalnızca bir varlığa bağlanabilir. Örneğin, birden fazla "Reklam," tek bir "Popüler İçeriğin" yanında gösterilebilir.
 
 ### İlişkiler ve Türleri
 
@@ -97,10 +87,6 @@ Aşağıdaki tablo, projedeki varlıklar arasındaki ilişkileri ve bu ilişkile
 | **Yayınlar**     | Reklam             | Sosyal Medya           | Birden Çoğa           |
 | **Tıklanma**     | Takipçi            | Reklam                 | Çoktan Çoğa           |
 
-
-
-
-
 ### ER Diyagramı
 
 Projedeki varlıklar arasındaki ilişkileri gösteren basit ER diyagramı aşağıda sunulmuştur.
@@ -108,9 +94,6 @@ Projedeki varlıklar arasındaki ilişkileri gösteren basit ER diyagramı aşa�
 <p align="center">
   <img src="pictures/VTYS_GRUP16(4).png" alt="ER Diyagramı" width="1200"/>
 </p>
-
-
-
 
 ### Proje Amacı
 
@@ -124,9 +107,8 @@ Bu proje, sosyal medya platformları üzerinde kullanıcıların etkileşimlerin
    ```bash
    git clone https://github.com/OmerFaruk-Celik/Takipci_Davranis_Analiz_Ve_Otomasyon_Sistemi.git
 
-    
+    Gerekli bağımlılıkları yükleyin:
 
     bash
 
 # Gerekli komutlar buraya eklenecektir
-
