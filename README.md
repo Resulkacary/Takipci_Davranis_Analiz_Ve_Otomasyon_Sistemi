@@ -1,10 +1,12 @@
+markdown
+
 # Takipçi Analizi ve Otomasyon Sistemi
 
 Bu proje, sosyal medya takipçilerini analiz eden ve onlara özel reklam içerikleri sunan bir otomasyon sistemidir. Takipçilerin beğenileri, yorumları ve katıldıkları gruplar gibi etkileşimlerinden yola çıkarak, kişiselleştirilmiş reklam gösterimlerini ve içerik önerilerini otomatik olarak sunmayı amaçlamaktadır.
 
 ## Proje İçeriği
 
-Bu proje, kullanıcıların sosyal medya üzerindeki davranışlarını analiz ederek, kişisel ilgi alanlarına göre özel içerik ve reklam önerileri sunmayı hedefler. Kullanıcı ve takipçi ilişkileri, gönderiler, popüler içerikler, reklamlar gibi birçok varlık arasındaki ilişkiler analiz edilmiştir.
+Bu proje, kullanıcıların sosyal medya üzerindeki davranışlarını analiz ederek, kişisel ilgi alanlarına göre özel içerik ve reklam önerileri sunmayı hedefler. Kullanıcı ve takipçi ilişkileri, gönderiler, popüler içerikler, reklamlar ve sosyal medya gibi birçok varlık arasındaki ilişkiler analiz edilmiştir.
 
 ### Varlıklar ve Özellikleri
 
@@ -43,6 +45,12 @@ Bu proje, kullanıcıların sosyal medya üzerindeki davranışlarını analiz e
    - Reklam Kategorisi
    - Tıklanma Sayısı
 
+7. **Sosyal Medya**
+   - İsim
+   - Kullanıcı Adı
+   - E-posta
+   - Şifre
+
 ### ER Diyagramı
 
 Projedeki varlıklar arasındaki ilişkileri gösteren basit ER diyagramı aşağıda sunulmuştur.
@@ -78,3 +86,11 @@ Bu proje, sosyal medya platformları üzerinde kullanıcıların etkileşimlerin
 1. Projeyi klonlayın:
    ```bash
    git clone https://github.com/yourusername/follower-analysis-automation.git
+
+    Gerekli bağımlılıkları yükleyin:
+
+    bash
+
+# Gerekli komutlar buraya eklenecektir
+
+Veritabanı bağlantılarını yapılandırın ve projeyi çalıştırın.
