@@ -100,7 +100,7 @@ Aşağıdaki tablo, projedeki varlıklar arasındaki ilişkileri ve bu ilişkile
 
 ### Proje Amacı
 
-Bu proje, sosyal medya platformları üzerinde kullanıcıların etkileşimlerini analiz ederek, onlara özel içerik ve reklam önerileri sunmayı hedefler. Takipçi davranışlarını ve tercihlerini analiz eden bu otomasyon sistemi, kişiselleştirilmiş reklamların etkili bir şekilde gösterilmesine olanak tanır.
+Bu proje, sosyal medya platformları üzerinde kullanıcıların etkileşimlerini analiz ederek, onlara özel içerik ve reklam önerileri sunmayı ve kullanıcının kitleye özgü ürünler oluşturmasını hedefler.
 
 ---
 
