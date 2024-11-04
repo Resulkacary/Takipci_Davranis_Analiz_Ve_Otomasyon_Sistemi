@@ -64,9 +64,8 @@ Bu proje, kullanıcıların sosyal medya üzerindeki davranışlarını analiz e
 
 Projedeki varlıklar arasındaki ilişkileri gösteren basit ER diyagramı aşağıda sunulmuştur.
 
-![ER Diyagramı](path/to/your/ER-diagram.png)
+![ER Diyagramı](pictures/VTYS_GRUP16(4).png)
 
-> Not: Diyagramı yerel depoya kaydettikten sonra dosya yolunu `ER-diagram.png` olarak güncelleyiniz.
 
 İlişki Türlerinin Açıklamaları
 
