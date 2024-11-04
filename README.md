@@ -9,9 +9,9 @@
 
 | Numarası    | Ad                                  | Soyadı     |
 |-------------|-------------------------------------|------------|
-| 220260138   | [Ömer Faruk Çelik](https://github.com/OmerFaruk-Celik)   | Çelik      |
-| 210260304   | [Resul Kaçar](https://github.com/Resul-Kacar)           | Kaçar      |
-| 220260124   | [Muhammed Raşid Yılan](https://github.com/Muhammed-Rasid-Yilan) | Yılan     |
+| 220260138   | [Ömer Faruk](https://github.com/OmerFaruk-Celik)   | Çelik      |
+| 210260304   | [Resul](https://github.com/Resul-Kacar)           | Kaçar      |
+| 220260124   | [Muhammed Raşid](https://github.com/Muhammed-Rasid-Yilan) | Yılan     |
 
 ---
 
