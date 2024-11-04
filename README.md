@@ -65,7 +65,7 @@ Bu proje, kullanıcıların sosyal medya üzerindeki davranışlarını analiz e
 Projedeki varlıklar arasındaki ilişkileri gösteren basit ER diyagramı aşağıda sunulmuştur.
 
 <p align="center">
-  <img src="pictures/VTYS_GRUP16(4).png" alt="ER Diyagramı" width="800"/>
+  <img src="pictures/VTYS_GRUP16(4).png" alt="ER Diyagramı" width="1200"/>
 </p>
 
 
