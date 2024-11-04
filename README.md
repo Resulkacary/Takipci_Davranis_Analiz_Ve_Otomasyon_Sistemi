@@ -111,7 +111,7 @@ Bu proje, sosyal medya platformları üzerinde kullanıcıların etkileşimlerin
    ```bash
    git clone https://github.com/OmerFaruk-Celik/Takipci_Davranis_Analiz_Ve_Otomasyon_Sistemi.git
 
-    Gerekli bağımlılıkları yükleyin:
+    
 
     bash
 
