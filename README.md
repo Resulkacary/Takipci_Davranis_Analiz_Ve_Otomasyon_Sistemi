@@ -1,4 +1,3 @@
-markdown
 
 # Takipçi Analizi ve Otomasyon Sistemi
 
