@@ -69,6 +69,18 @@ Projedeki varlıklar arasındaki ilişkileri gösteren basit ER diyagramı aşa�
 
 > Not: Diyagramı yerel depoya kaydettikten sonra dosya yolunu `ER-diagram.png` olarak güncelleyiniz.
 
+İlişki Türlerinin Açıklamaları
+
+    Birden Çoğa (1
+    ): Bir varlık diğer varlıktan birden fazla örneğe sahip olabilir. Örneğin, "Kullanıcı" birden fazla "Takipçiye" sahip olabilir.
+
+    Çoktan Çoğa (N
+    ): İki varlık birbiriyle çoklu ilişkiye sahip olabilir. Örneğin, "Takipçi" birden fazla "Gönderiyi" beğenebilir ve bir "Gönderi" birden fazla "Takipçi" tarafından beğenilebilir.
+
+    Birden Bire (1:1): Bir varlık diğer varlığa yalnızca bir kez bağlanabilir. Örneğin, bir "Gönderi" yalnızca bir "Popüler İçerik" olarak işaretlenebilir.
+
+    Çoktan Bire (N:1): Birden fazla varlık yalnızca bir varlığa bağlanabilir. Örneğin, birden fazla "Reklam," tek bir "Popüler İçeriğin" yanında gösterilebilir.
+
 ### İlişkiler ve Türleri
 
 Aşağıdaki tablo, projedeki varlıklar arasındaki ilişkileri ve bu ilişkilerin türlerini özetlemektedir.
