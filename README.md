@@ -109,7 +109,7 @@ Bu proje, sosyal medya platformları üzerinde kullanıcıların etkileşimlerin
 
 1. Projeyi klonlayın:
    ```bash
-   git clone https://github.com/yourusername/follower-analysis-automation.git
+   git clone https://github.com/OmerFaruk-Celik/Takipci_Davranis_Analiz_Ve_Otomasyon_Sistemi.git
 
     Gerekli bağımlılıkları yükleyin:
 
